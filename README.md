@@ -28,4 +28,4 @@ This repository does not include a license file. Add a LICENSE file if you want 
 
 ## Contact
 
-For questions, open an issue or contact the repository owner: mccreation00-ctrl or mccreation00@gmail.com 
+For questions, open an issue or contact the repository owner: mccreation00-ctrl 
